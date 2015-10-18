@@ -1,0 +1,7 @@
+To include MyClasses through the Header file do the following-
+
+1) Put this at the top of the file with the other preprocessers:
+  #include "MyClass.h"
+2) Put this where ever you need to access it within the code:
+  MyClass mc();
+  (switching MyClass with whatever class within the Header you'd like to use)
