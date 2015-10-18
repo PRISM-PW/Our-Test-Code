@@ -7,5 +7,5 @@ using namespace std;
 
 MyClass:MyClass()
 {
-    cout << "Hello World!";
+    return 0;
 }
